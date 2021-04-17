@@ -1,7 +1,7 @@
 [![Header](https://github.com/Fizic/Fizic/blob/main/assets/Firsov%20Kirill.png?raw=true)](https://www.youtube.com/channel/UC-8PllPkjOrFCX-_zDriTJQ)
 
-## I'm a beginner Youtuber and Software Engineer
-
+### About me:
+Hi, my name is Kirill, I'm 17 and I'm backend developer from Russia.
 
 
 ### Languages and Tools:
@@ -17,3 +17,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/the_cybermania)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/kiryusha_firsov/)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/kiryusha_coder)
+
+### Contact me:
+E-mail: kirill.firsov.04@gmail.com
