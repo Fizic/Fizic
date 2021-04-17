@@ -1,4 +1,4 @@
-[![Header](https://github.com/Fizic/Fizic/blob/main/assets/Firsov%20Kirill.png?raw=true)](https://www.youtube.com/channel/UC-8PllPkjOrFCX-_zDriTJQ)
+![Header](https://github.com/Fizic/Fizic/blob/main/assets/Firsov%20Kirill.png?raw=true)
 
 ### About me:
 Hi, my name is Kirill, I'm 17 and I'm backend developer from Russia.
