@@ -12,10 +12,5 @@ Hi, my name is Kirill, I'm 17 and I'm backend developer from Russia.
 ![PostgreSQ](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
 
-### Follow Me:
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCYyjtkwI43vSAPNlsZtrfEA)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/kiryusha_firsov/)
-[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/kiryusha_coder)
-
 ### Contact me:
 E-mail: kirill.firsov.04@gmail.com
