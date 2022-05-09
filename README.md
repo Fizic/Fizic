@@ -1,7 +1,7 @@
 ![Header](https://github.com/Fizic/Fizic/blob/main/assets/Firsov%20Kirill.png?raw=true)
 
 ### About me:
-Hi, my name is Kirill, I'm 17 and I'm backend developer from Russia.
+Hi, my name is Kirill, I'm 18 and I'm backend developer from Russia.
 
 
 ### Languages and Tools:
