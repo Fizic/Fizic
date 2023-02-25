@@ -1,16 +1,26 @@
 ![Header](https://github.com/Fizic/Fizic/blob/main/assets/Firsov%20Kirill.png?raw=true)
 
 ### About me:
-Hi, my name is Kirill, I'm 18 and I'm backend developer from Russia.
+I'm Kirill. I'm 18. But most importantly, I am a software engineer. I am currently working at Yandex on improving a managed service for MySQL.
 
+---
+
+### Work experience
+
+#### [Yandex](https://ya.ru) (07/12/2022 - current)
+
+- Working on Managed Service for MySQL
+- Main stack: Go, Python, MySQL
+
+---
 
 ### Languages and Tools:
+![Go](https://img.shields.io/badge/-go-090909?style=for-the-badge&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b)
-![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB)
-![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=Redis)
+![MySQL](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)
 ![PostgreSQ](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
 
 ### Contact me:
-E-mail: kirill.firsov.04@gmail.com
+- E-mail: inbox@kirillfirsov.ru
+- Telegram: @FizicX
