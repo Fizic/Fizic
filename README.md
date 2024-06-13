@@ -1,7 +1,7 @@
 ![Header](https://github.com/Fizic/Fizic/blob/main/assets/Firsov%20Kirill.png?raw=true)
 
 ### About me
-I'm Kirill. I'm 19. But most importantly, I am a software engineer. I am currently working at Yandex on improving a managed service for MySQL.
+I'm Kirill. I'm 20. But most importantly, I am a software engineer. I am currently working at Yandex on improving a managed service for MySQL.
 
 ---
 
