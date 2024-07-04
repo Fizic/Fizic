@@ -7,7 +7,7 @@ I'm Kirill. I'm 20. But most importantly, I am a software engineer. I am current
 
 ### Work experience
 
-#### [Yandex](https://ya.ru) (07/12/2022 - current)
+#### [Yandex](https://ya.ru) (07/12/2022 - 26/06/2024)
 
 - Working on Managed Service for MySQL
 - Main stack: Go, Python, MySQL
