@@ -1,11 +1,16 @@
 ![Header](https://github.com/Fizic/Fizic/blob/main/assets/Firsov%20Kirill.png?raw=true)
 
 ### About me
-I'm Kirill. I'm 20. But most importantly, I am a software engineer. I am currently working at Yandex on improving a managed service for MySQL.
+I'm Kirill. I'm 20. But most importantly, I am a software engineer. I am currently working at Ozon Fintech on improving a Credit Products.
 
 ---
 
 ### Work experience
+
+#### [Ozon Fintech](https://finance.ozon.ru/) (09/07/2024 - current)
+
+- Working on Credit Products
+- Main stack: Go, Postgresql, Redis
 
 #### [Yandex](https://ya.ru) (07/12/2022 - 26/06/2024)
 
